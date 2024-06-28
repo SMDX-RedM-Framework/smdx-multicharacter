@@ -1,4 +1,4 @@
-local SMDXCore = exports['smdx-core']:GetCoreObject()
+local SMDXCore = exports['smdx-core']:GetSMDX()
 
 -----------------------------------------------------------------------
 -- version checker
