@@ -1,4 +1,4 @@
-local SMDXCore = exports['smdx-core']:GetCoreObject()
+local SMDXCore = exports['smdx-core']:GetSMDX()
 local charPed = nil
 local selectingChar = true
 local isChossing = false
