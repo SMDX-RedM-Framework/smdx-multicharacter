@@ -38,8 +38,8 @@ local foundResources = {}
 
 -- starter items
 local StarterItems = {
-    ['bread']      = { amount = 5, item = 'bread' },
-    ['canteen100'] = { amount = 1, item = 'canteen100' }
+    ['bread']      = { amount = 2, item = 'bread' },
+    ['canteen50'] = { amount = 1, item = 'canteen50' }
 }
 
 -- give starter items
